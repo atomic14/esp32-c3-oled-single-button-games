@@ -6,6 +6,8 @@ and all games are designed around a single button input on `GPIO9` (BOOT).
 
 It's all been vibe coded - so quality is questionable!
 
+You can pick up one of these cheap modules [here](https://s.click.aliexpress.com/e/_c3HD7IPz).
+
 ![Rubbish Games](docs/games.webp)
 
 ## Controls
