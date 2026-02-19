@@ -1,3 +1,5 @@
+[![Build ESP32-C3 Games](https://github.com/atomic14/esp32-c3-oled-single-button-games/actions/workflows/build-esp32-c3-games.yml/badge.svg)](https://github.com/atomic14/esp32-c3-oled-single-button-games/actions/workflows/build-esp32-c3-games.yml)
+
 # ESP32-C3 OLED Single-Button Games
 
 This project is a collection of fairly crappy tiny games for the ESP32-C3 0.42in OLED module.
